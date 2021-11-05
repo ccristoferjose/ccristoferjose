@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pzje5o7o7vl4ygkcrbvuaj54cu&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pzje5o7o7vl4ygkcrbvuaj54cu&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **ccristoferjose/ccristoferjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
