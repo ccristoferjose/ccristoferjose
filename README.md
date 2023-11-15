@@ -13,4 +13,4 @@ Feel free to reach out or contribute to any of my projects. Always looking to co
 
 ## Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mysql,kubernetes,grafana,git, gcp, docker, arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mysql,kubernetes,grafana,git,gcp,docker,arduino&perline=3)](https://skillicons.dev)
